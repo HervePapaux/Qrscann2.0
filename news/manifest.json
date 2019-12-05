@@ -1,5 +1,5 @@
 {
-    "name": "mubi",
+    "name": "mubi_app",
     "short_name": "mubi",
     "start_url": "index.html",
     "display": "standalone",
