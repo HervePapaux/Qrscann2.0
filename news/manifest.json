@@ -1,7 +1,7 @@
 {
     "name": "mubi_app",
     "short_name": "mubi",
-    "start_url": "https://hervepapaux.github.io/Qrscann2.0/news/",
+    "start_url": "index.html",
     "display": "standalone",
     "background_color": "#F4F4F4",
     "theme_color": "#F4F4F4",
