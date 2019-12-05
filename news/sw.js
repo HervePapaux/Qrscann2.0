@@ -22,7 +22,7 @@ self.addEventListener('notificationclick', function (event) {
     event.notification.close();
 
     event.waitUntil(
-        clients.openWindow('https://hervepapaux.github.io/Qrscann/news/')
+        clients.openWindow('https://www.google.ch')
     );
 });
 const dynamicCacheName = 'site-dynamic-v1';

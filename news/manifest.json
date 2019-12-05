@@ -1,6 +1,6 @@
 {
-    "name": "mubi_app",
-    "short_name": "mubi",
+    "name": "QrScanner",
+    "short_name": "Qr",
     "start_url": "index.html",
     "display": "standalone",
     "background_color": "#F4F4F4",
